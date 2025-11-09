@@ -1,4 +1,4 @@
-# dynamic_list
+# widgets_application
 
 A new Flutter project.
 
